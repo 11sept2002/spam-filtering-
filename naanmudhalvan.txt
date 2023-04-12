@@ -1,0 +1,76 @@
+                       Project Description*
+
+Over recent years, as the popularity of mobile phone devices has increased, 
+Short Message Service (SMS) has grown into a multi-billion dollar industry.
+ At the same time, reduction in the cost of messaging services has resulted
+ in growth in unsolicited commercial advertisements (spams) being sent to
+ mobile phones. Due to Spam SMS, Mobile service providers suffer from some
+ sort of financial problems as well as it reduces calling time for users.
+ Unfortunately, if the user accesses such Spam SMS they may face the problem
+ of virus or malware. When SMS arrives at mobile it will disturb mobile user
+ privacy and concentration. It may lead to frustration for the user. So Spam
+ SMS is one of the major issues in the wireless communication world and it
+ grows day by day.
+
+To avoid such Spam SMS people use white and black list of numbers. But this
+ technique is not adequate to completely avoid Spam SMS. To tackle this problem 
+it is needful to use a smarter technique which correctly identifies Spam SMS.
+ Natural language processing technique is useful for Spam SMS identification.
+ It analyses text content and finds patterns which are used to identify Spam 
+and Non-Spam SMS.
+
+
+             Specify The Business Problem*
+
+Over recent years, as the popularity of mobile phone devices has increased,
+ Short Message Service (SMS) has grown into a multi-billion dollar industry. 
+At the same time, reduction in the cost of messaging services has resulted 
+in growth in unsolicited commercial advertisements (spams) being sent to mobile
+ phones. Due to Spam SMS, Mobile service providers suffer from some sort of
+ financial problems as well as it reduces calling time for users. Unfortunately, 
+if the user accesses such Spam SMS they may face the problem of virus or malware.
+ When SMS arrives at mobile it will disturb mobile user privacy and concentration.
+ It may lead to frustration for the user. So Spam SMS is one of the major issues 
+in the wireless communication world and it grows day by day.
+
+                   Business Requirements*
+
+A business requirement for an SMS spam classification system would include the 
+ability to accurately identify and flag spam messages, protect customers from 
+unwanted or harmful messages, and comply with industry regulations and laws
+ regarding spam messaging. Additionally, the system should be able to handle a
+ high volume of messages, integrate with existing systems and databases, and 
+provide reporting and analysis capabilities to track performance and improve
+the system over time. The system should also have an easy-to-use interface and 
+be easy to maintain and update.
+
+                      Literature Survey*
+
+project would involve researching and analysing existing studies, papers, and 
+articles on the topic to gain a thorough understanding of the current state of
+ SMS spam classification and to identify potential areas for improvement and
+ future research. The survey would include looking at different methods and
+ techniques used for identifying and flagging spam messages, such as machine 
+learning algorithms, natural language processing, and rule-based systems. It
+ would also involve evaluating the performance and effectiveness of 
+these methods, as well as their limitations and challenges. Additionally, the
+ literature survey would review the current state of SMS spam and trends in the
+ industry, as well as any existing laws and regulations related to spam messaging.
+ The survey would also investigate the datasets and feature representations used 
+in previous studies, which would help to determine the best approach for the 
+current project. Furthermore, It would be important to check the pre-processing 
+techniques used in the research to understand how to properly clean and prepare 
+the data for the classifier.
+
+             Social Or Business Impact*
+
+Social Impact:- it can help protect individuals from unwanted and potentially 
+harmful messages. Spam messages can include phishing attempts, scams, and fraud,
+ which can have serious financial and personal consequences for recipients. By
+ accurately identifying and flagging spam messages, the system can help prevent 
+these types of attacks and protect individuals from falling victim to them.
+
+Business Model/Impact:- it can help protect their customers and improve their 
+reputation. Spam messages can harm a business's reputation and lead to customer 
+complaints and lost business. By accurately identifying and flagging spam messages, 
+the system can help protect businesses and improve their customer's trust.
